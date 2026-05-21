@@ -122,3 +122,8 @@ taught at Reichman University. Eden creates practical, production-ready courses 
 </ul>
 
 </details>
+
+<h2>Errata</h2>
+<ul>
+  <li>Page 32: In Chapter 2, the heading "Using pec-driven design" should be "Using spec-driven design".</li>
+</ul>
